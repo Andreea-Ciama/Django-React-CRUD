@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # XYZ Company
 
 ~ Employee Records
@@ -129,3 +130,6 @@ Regular Expression)))
 confirmation
 - On further confirmation, employee will be deleted from the database
 - On selecting Cancel, no changes will be made to the database
+=======
+# Django-React-CRUD
+>>>>>>> b8b090596e87d238f0e02643c2371788f1259064
